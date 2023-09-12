@@ -1,0 +1,44 @@
+:root{
+    --colortitulo: rgba(206, 11, 11, 0.768);
+}
+
+.alto-img-carrusel{
+    height: 500px;
+    width: 600px;
+    
+}
+.color-titulo{
+    color:var(--colortitulo);
+    font-weight: bold;
+}
+.btn-hover:hover{
+    background-color: rgb(8, 15, 117);
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+.fondo-menu{
+    background-image: url(./imagenes/6.jpg);
+}
+.img{
+    height: 250px;
+    width: 350px;
+}
+body{
+    background-image:url(imagenes/6.jpg);
+}
+.video{
+    height: 600px;
+    width: 1000px;
+}
+.p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foto{
+    height: 5px;
+    width: 348px;
+}
+
